@@ -24,7 +24,7 @@ import com.google.firebase.database.FirebaseDatabase;
 public class MainActivity extends AppCompatActivity implements GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener, LocationListener{
     //2. khai bao anh xa view
     //chó linh ~~
-    //ggrtgrgrgrrgrfgyy
+    //ggrt
 
     private final String TAG = "LaurenTestApp";
     private TextView txtLatitude;
