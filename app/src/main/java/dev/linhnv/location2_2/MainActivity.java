@@ -26,6 +26,7 @@ public class MainActivity extends AppCompatActivity implements GoogleApiClient.C
     //chó linh ~~
     //ggrt
     //ko push
+    //Brand mới?
 
     private final String TAG = "LaurenTestApp";
     private TextView txtLatitude;
